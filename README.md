@@ -10,6 +10,8 @@ This is an lightweight personal portfolio site, created with HTML, and CSS to le
 
 ![](./screenshot.png)
 
+#### Live Demo 
+[Site Demo]( https://tech-neophile.github.io/Personal-Portfolio-1/)
 
 ### Built with
 
